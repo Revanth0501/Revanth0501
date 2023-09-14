@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanth0501" alt="revanth0501" /></a> </p>
 
-- 🔭 I’m currently working on **Super Market Billing System**
+- 🔭 I’m currently working as **Research Intern at MCW**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
