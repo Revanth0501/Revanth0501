@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Research Intern at MCW**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **CPP**
 
 - 📫 How to reach me **revanthuppula0503@gmail.com**
 
