@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Research Intern at MulticoreWare**
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
