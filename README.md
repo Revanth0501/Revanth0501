@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanth0501&label=Profile%20views&color=0e40b4&style=flat" alt="revanth0501" /> </p>
 
-- 🔭 I’m currently working as **Research Intern at MulticoreWare**
+- 🔭  Completed **Research Internship** at MulticoreWare
 
 - 🌱 I’m currently learning **.NET**
 
